@@ -27,7 +27,14 @@
         "source": "1",
         "caption": {
           "title": "Full Title: National highways map of the United States showing one hundred fifty thousand miles of national highways proposed by the National Highways Association",
-          "text": "Created in 1918 by: John C. Mulford, chief cartographer ; G.E. Lombard, J.M. Darley, E.E. Jenkins, cartographers. Published under direction of the National Highways Association."
+          "text": "Created in 1918 by: John C. Mulford, chief cartographer ; G.E. Lombard, J.M. Darley, E.E. Jenkins, cartographers. Published under direction of the National Highways Association (NHA).  The NHA was established in 1911, one of many groups that grew out of the Good Roads Movement, a movement in the 1880s by bicyclists wanting to improve the nation's roads. The NHA was tasked with the development of a national road network in the United States, and this map showcases the proposed roads."
+        }
+      },
+      {
+        "source": "1",
+        "caption": {
+            "title": "Symmetrical Style",
+          "text": "Noticeable from the get-go, the map has a symmetrical format. While content may be different on each side, the left side of the map is styled exactly the same as the right side. Symmetrical messages tend to be more persuasive than non-symmetrical messages."
         }
       },
       {
@@ -40,26 +47,33 @@
         ],
         "caption": {
           "title": "Patriotic and Persuasive",
-          "text": "The map uses a color scheme of red, white, and blue, the colors of the US flag, to evoke a sense of patriotism and duty in the viewer. The text implies that a national highway system will be a win for everyone, uniting even those with opposing views of the war."
-        }
-      },
-      {
-        "source": "1",
-        "caption": {
-          "text": "A caption doesn't need a title; only the text is required. **Markdown** _is also_ supported, and we can [insert links](https://leventhalmap.org)"
+          "text": "The map uses a color scheme of red, white, and blue, the colors of the US flag. Tyner states that 'color is used symbolically on persuasive maps to draw upon existing connotations.' In this case, color is used to evoke a sense of patriotism and duty in the viewer. The main text implies that a national highway system will be a win for everyone, uniting even those with opposing views of the war."
         }
       },
       {
         "source": "1",
         "extent": [
-          5434,
-          -4641,
-          7566,
-          -3015
+            4590,
+            -2100,
+            4598,
+            -700
+          ],
+        "caption": {
+            "title": "Persuasive Photographs",
+          "text": "The photographs on the map demonstrate that poor roads are related to poverty and ignorance, while good roads equal prosperity and knowledge."
+        }
+      },
+      {
+        "source": "1",
+        "extent": [
+          2434,
+          -7841,
+          4566,
+          -6515
         ],
         "caption": {
-          "title": "Jumping to a new image in the same Manifest",
-          "text": "Now we've jumped over to another image from the same Manifest."
+          "title": "Symbolic Sam",
+          "text": "At the time this map was created, there was a 'preparedness' debate regarding US intervention in WWI as an ally of Britain and France. The iconic figure of Uncle Sam symbolizes the association between good roads and the country's preparedness for involvement."
         }
       },
       {
@@ -72,7 +86,7 @@
         ],
         "moreInfo": "https://collections.leventhalmap.org/search/commonwealth:7h149z343",
         "caption": {
-          "text": "And now we're panning around that image. You can pan around as much as you like, at any zoom level."
+          "text": "In addition to persuasive text, there is an abundance of informative text around the map, including lists of the NHA officers, information about the proposal, and tables providing estimates of people living near the proposed roads."
         }
       }
 
