@@ -26,21 +26,21 @@
       {
         "source": "1",
         "caption": {
-          "title": "A caption may have a title",
-          "text": "And descriptive text telling the reader what we're looking at. This image is loaded from a IIIF Manifest, by passing the Manifest URL together with a sequence, canvas, and image indices."
+          "title": "Full Title: National highways map of the United States showing one hundred fifty thousand miles of national highways proposed by the National Highways Association",
+          "text": "Created in 1918 by: John C. Mulford, chief cartographer ; G.E. Lombard, J.M. Darley, E.E. Jenkins, cartographers. Published under direction of the National Highways Association."
         }
       },
       {
         "source": "1",
         "extent": [
-          2395,
-          -3374,
-          4168,
-          -2155
+          4595,
+          -3000,
+          10168,
+          -400
         ],
         "caption": {
-          "title": "Taking a tour",
-          "text": "We can tour around the image by changing the extent that we want featured in the view."
+          "title": "Patriotic and Persuasive",
+          "text": "The map uses a color scheme of red, white, and blue, the colors of the US flag, to evoke a sense of patriotism and duty in the viewer. The text implies that a national highway system will be a win for everyone, uniting even those with opposing views of the war."
         }
       },
       {
