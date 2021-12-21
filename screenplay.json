@@ -27,7 +27,7 @@
         "source": "1",
         "caption": {
           "title": "Full Title: National highways map of the United States showing one hundred fifty thousand miles of national highways proposed by the National Highways Association",
-          "text": "Created in 1918 by: John C. Mulford, chief cartographer ; G.E. Lombard, J.M. Darley, E.E. Jenkins, cartographers. Published under direction of the National Highways Association (NHA).  The NHA was established in 1911, one of many groups that grew out of the Good Roads Movement, a movement in the 1880s by bicyclists wanting to improve the nation's roads. The NHA was tasked with the development of a national road network in the United States, and this map showcases the proposed roads."
+          "text": "Created in 1918 by: John C. Mulford, chief cartographer ; G.E. Lombard, J.M. Darley, E.E. Jenkins, cartographers. Published under direction of the National Highways Association (NHA).  The NHA was established in 1911, one of many groups that grew out of the Good Roads Movement, a movement in the 1880s by bicyclists wanting to improve the nation's roads. The NHA was tasked with the development of a national road network in the United States, and this map was made to showcase the proposed roads. Instead of a map of given affairs, this was created as a blueprint of the future (Tyner)."
         }
       },
       {
@@ -46,8 +46,21 @@
           -400
         ],
         "caption": {
-          "title": "Patriotic and Persuasive",
-          "text": "The map uses a color scheme of red, white, and blue, the colors of the US flag. Tyner states that 'color is used symbolically on persuasive maps to draw upon existing connotations.' In this case, color is used to evoke a sense of patriotism and duty in the viewer. The main text implies that a national highway system will be a win for everyone, uniting even those with opposing views of the war."
+          "title": "Patriotic Persuasion",
+          "text": "The map uses a color scheme of red, white, and blue, the colors of the US flag. Tyner states that 'color is used symbolically on persuasive maps to draw upon existing connotations' (pg 1091). In this case, color is used to evoke a sense of patriotism and duty in the viewer. The main text implies that a national highway system will be a win for everyone, uniting even those with opposing views of the war."
+        }
+      },
+      {
+        "source": "1",
+        "extent": [
+          8595,
+          -3000,
+          10500,
+          -2500
+        ],
+        "caption": {
+          "title": "Patriotic Persuasion",
+          "text": "The slogan 'Good Roads Everywhere' can be seen all over the map, and repetition is a common technique of persuasion. Schulten states that 'all maps are argumentative, for they involve the selection and arrangement of data' (pg 194). This map frames an argument for us with its narrative, a suggested relationship between a national highway network and national preparedness, prosperity, and unity. The map is not just a description of how the world is, but also a prescription for an identified problem (Crampton, p. 193)."
         }
       },
       {
@@ -60,7 +73,20 @@
           ],
         "caption": {
             "title": "Persuasive Photographs",
-          "text": "The photographs on the map demonstrate that poor roads are related to poverty and ignorance, while good roads equal prosperity and knowledge."
+          "text": "Photographs on the map demonstrate that poor roads are related to poverty and ignorance, while good roads equal prosperity and knowledge."
+        }
+      },
+      {
+        "source": "1",
+        "extent": [
+            10090,
+            -2100,
+            10198,
+            -700
+          ],
+        "caption": {
+            "title": "Persuasive Photographs",
+          "text": "More photographs depict the negativity of the current roads of the time - losing money, abandoned farms, and religious indifference. These are contrasted with pictures representing no financial losses, no abandoned farms, and religious interest."
         }
       },
       {
@@ -86,7 +112,53 @@
         ],
         "moreInfo": "https://collections.leventhalmap.org/search/commonwealth:7h149z343",
         "caption": {
-          "text": "In addition to persuasive text, there is an abundance of informative text around the map, including lists of the NHA officers, information about the proposal, and tables providing estimates of people living near the proposed roads."
+          "text": "In addition to persuasive text, there is an abundance of informative text around the map, including lists of NHA officers and information about the proposal."
+        }
+      },
+      {
+        "source": "1",
+        "extent": [
+          8095,
+          -2000,
+          8168,
+          -880
+        ],
+        "caption": {
+          "title": "*Debate*table",
+          "text": "Tables on the map show the number of miles of proposed roads and type of roads, as well as the financial and social benefits of the roads. However, the data is clearly made up of some estimates. How would they know the number of children that would start going to school because of new roads? Tyner mentions that when data is in raw form, results can be misleading."
+        }
+      },
+      {
+        "source": "1",
+        "extent": [
+          4595,
+          -6500,
+          5468,
+          -4500
+        ],
+        "caption": {
+          "title": "Western Wilderness",
+          "text": "The highways are more dispersed in the western half of the US, likely due to less population centers."
+        }
+      },
+      {
+        "source": "1",
+        "extent": [
+          6468,
+          -6500,
+          12168,
+          -4500
+        ],
+        "caption": {
+          "title": "The Populous East",
+          "text": "Infrastructure proposed in the eastern US is much more dense due to more population centers and higher population densities."
+        }
+      },
+      {
+        "source": "1",
+        "caption": {
+            "title": "",
+          "text": "This map was clearly intended to be persuasive. The map frames a narrative, makes a cause and effect claim, defines data, and uses effective symbology (Crampton). Its persuasive message led to further road proposals, such as proposals for the Lincoln Highway and the Trans-Canada Highway. The NHA's vision of a national highway network was eventually realized (although modified) in 1956 with the Federal Aid Highway Act."
         }
       }
 
