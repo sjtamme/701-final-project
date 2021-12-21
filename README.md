@@ -2,7 +2,7 @@
 
 This project uses [Panel Truck](https://cartinal.leventhalmap.org/documentation/panel-truck.html), a web UI tool for creating interactions with maps and images. My project allows the viewer to interact with a historical map, <b>National highways map of the United States showing one hundred fifty thousand miles of national highway</b>.
 
-As the user interacts with the map, aspects of the map are explained in relation to readings from the MAP 701 course. The following readings are refrenced:
+As the user interacts with the map, aspects of the map are explained in relation to readings from the MAP 701 course. The following readings are referenced:
 
 - Judith Tyner, “Persuasive Cartography,” in Mark Monmonier, ed., The History of Cartography, vol. 6 (University of Chicago Press, 2015): 1087–1095.
 
